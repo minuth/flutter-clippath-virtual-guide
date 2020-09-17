@@ -1,17 +1,17 @@
-# using_clippath
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter-clippath-virtual-guide
+**Flutter ClipPath: Virtual Guide to create custom shape base on Circle**
+*Octagon*
+![enter image description here](https://github.com/minuth/flutter-clippath-virtual-guide/blob/master/asset/octagon_clipper.png?raw=true)
+*Implementation*
+![enter image description here](https://github.com/minuth/flutter-clippath-virtual-guide/blob/master/asset/octagon_clipper_impl.png?raw=true)
+*Star*
+![enter image description here](https://github.com/minuth/flutter-clippath-virtual-guide/blob/master/asset/star_clipper.png?raw=true)
+*Implementation*
+![enter image description here](https://github.com/minuth/flutter-clippath-virtual-guide/blob/master/asset/start_clipper_impl.png?raw=true)
+*Triangle*
+![enter image description here](https://github.com/minuth/flutter-clippath-virtual-guide/blob/master/asset/triangle_clipper.png?raw=true)
+*Implementation*
+![enter image description here](https://github.com/minuth/flutter-clippath-virtual-guide/blob/master/asset/triangle_clipper_impl.png?raw=true)
+*Open umbrella*
+![enter image description here](https://github.com/minuth/flutter-clippath-virtual-guide/blob/master/asset/open_umbrellar_clipper.png?raw=true)
+*Implementation*
+![enter image description here](https://github.com/minuth/flutter-clippath-virtual-guide/blob/master/asset/open_umbrellar_clippler_impl.png?raw=true)
